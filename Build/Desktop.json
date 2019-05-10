@@ -1,6 +1,6 @@
 {
 "companyName": "Awesome Company",
-"productName": "Space Shooter",
+"productName": "Galaxy Shooter",
 "dataUrl": "Desktop.data.unityweb",
 "wasmCodeUrl": "Desktop.wasm.code.unityweb",
 "wasmFrameworkUrl": "Desktop.wasm.framework.unityweb",
